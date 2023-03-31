@@ -1,0 +1,51 @@
+h1 {
+    font-family: 'Mukta', sans-serif;
+    color: rgb(185, 9, 9);
+    background-color: rgb(249, 247, 247);
+    border-radius: 1;
+    align-items: center;
+    text-align: center;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 2em;
+}
+
+.nav {
+    background-color: rgb(250, 249, 249);
+    align-items: center;
+    text-align: center;
+    margin: 2em;
+    padding: 1em;
+    border-radius: 2em;
+}
+
+
+body {
+    color: rgb(8, 8, 8);
+    background: rgb(168, 16, 16);
+    font-family: sans-serif;
+    align-items: center;
+
+
+}
+
+h2 {
+    text-align: center;
+}
+
+.frase1 {
+    text-align: center;
+}
+
+.imagen1 {
+    text-align: center;
+}
+
+footer {
+    justify-content: space-evenly;
+    border-radius: 2em;
+    background: rgb(253, 253, 251);
+    padding: 1em;
+
+
+}
