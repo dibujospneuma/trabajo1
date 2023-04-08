@@ -17,6 +17,8 @@ h1 {
     margin: 2em;
     padding: 1em;
     border-radius: 2em;
+    background:rgb(248,202,160);
+    ;
 }
 
 
@@ -53,4 +55,28 @@ footer {
     display: flex;
     justify-content: space-evenly;
 
+}
+form input{
+    background: rgb(248,202,160);
+
+}
+select option{
+    background: rgb(248,202,160);
+
+}
+#cur{
+    background: rgb(248,202,160);
+
+}
+fieldset{
+    width: 50%;
+    text-align: center;
+    background: rgb(194, 119, 119);
+    
+}
+.for{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
