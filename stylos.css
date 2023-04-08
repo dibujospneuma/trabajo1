@@ -1,7 +1,7 @@
 h1 {
     font-family: 'Mukta', sans-serif;
-    color: rgb(185, 9, 9);
-    background-color: rgb(249, 247, 247);
+    color: rgb(149, 75, 75);
+    background-color: rgb(248, 202, 160);
     border-radius: 1;
     align-items: center;
     text-align: center;
@@ -11,7 +11,7 @@ h1 {
 }
 
 .nav {
-    background-color: rgb(250, 249, 249);
+    background-color: rgb(248, 202, 160);
     align-items: center;
     text-align: center;
     margin: 2em;
@@ -22,7 +22,7 @@ h1 {
 
 body {
     color: rgb(8, 8, 8);
-    background: rgb(168, 16, 16);
+    background: rgb(149, 75, 75);
     font-family: sans-serif;
     align-items: center;
 
@@ -44,8 +44,13 @@ h2 {
 footer {
     justify-content: space-evenly;
     border-radius: 2em;
-    background: rgb(253, 253, 251);
+    background: rgb(248, 202, 160);
     padding: 1em;
 
+
+}
+.pie{
+    display: flex;
+    justify-content: space-evenly;
 
 }
